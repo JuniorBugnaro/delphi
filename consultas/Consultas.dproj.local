@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/01/03 20:08:49.881,=C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/03 20:09:12.378,C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\UnitPrincipal.pas=C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/03 20:09:12.378,C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\UnitPrincipal.dfm=C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/03 20:09:17.468,C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\Consultas.dproj=C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/03 20:14:21.799,=C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\Unit1.pas</Transaction>
+    <Transaction>2023/01/03 20:14:58.289,C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\unitDM.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\Unit1.dfm</Transaction>
+    <Transaction>2023/01/03 20:14:58.289,C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\unitDM.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\consultas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

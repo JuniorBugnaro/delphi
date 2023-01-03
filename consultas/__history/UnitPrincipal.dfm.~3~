@@ -1,0 +1,50 @@
+object opcoes: Topcoes
+  Left = 0
+  Top = 0
+  Caption = 'opcoes'
+  ClientHeight = 533
+  ClientWidth = 690
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblConsulta: TLabel
+    Left = 288
+    Top = 16
+    Width = 69
+    Height = 13
+    Caption = 'Digite o nome:'
+  end
+  object RadioGroup1: TRadioGroup
+    Left = 8
+    Top = 16
+    Width = 257
+    Height = 57
+    Caption = 'Op'#231#245'es de Consultas'
+    Columns = 2
+    Items.Strings = (
+      'Nome'
+      'Bairro')
+    TabOrder = 0
+  end
+  object txtConsulta: TEdit
+    Left = 288
+    Top = 35
+    Width = 385
+    Height = 20
+    TabOrder = 1
+  end
+  object btRealizarConsulta: TButton
+    Left = 8
+    Top = 79
+    Width = 665
+    Height = 50
+    Caption = 'Realizar Consulta'
+    TabOrder = 2
+  end
+end
