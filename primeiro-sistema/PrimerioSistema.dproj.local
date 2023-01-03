@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/21 14:19:16.000.802,=C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/21 14:23:12.000.360,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\primeiro-sistema\unitPrincipal.dfm</Transaction>
+    <Transaction>2022/12/21 14:23:12.000.360,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\primeiro-sistema\unitPrincipal.pas</Transaction>
+    <Transaction>2022/12/21 14:23:57.000.536,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Junior Bugnaro\Documents\estudos\delphi\primeiro-sistema\PrimerioSistema.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

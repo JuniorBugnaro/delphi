@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/27 08:23:19.000.329,=C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/27 08:24:00.000.584,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/12/27 08:24:00.000.584,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\UnitPrincipal.dfm</Transaction>
+    <Transaction>2022/12/27 08:24:07.000.576,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Clinica.dproj</Transaction>
+    <Transaction>2022/12/27 09:20:45.000.063,=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit2.pas</Transaction>
+    <Transaction>2022/12/27 09:21:18.000.513,C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit2.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\UnitCadPaciente.dfm</Transaction>
+    <Transaction>2022/12/27 09:21:18.000.513,C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit2.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\UnitCadPaciente.pas</Transaction>
+    <Transaction>2022/12/27 09:21:37.000.734,=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit3.pas</Transaction>
+    <Transaction>2022/12/27 09:21:54.000.126,C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit3.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\UnitCadAgendamentos.pas</Transaction>
+    <Transaction>2022/12/27 09:21:54.000.126,C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit3.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\UnitCadAgendamentos.dfm</Transaction>
+    <Transaction>2022/12/27 09:39:36.000.867,=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit1.pas</Transaction>
+    <Transaction>2022/12/27 09:48:31.000.622,C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit1.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\unitDM.dfm</Transaction>
+    <Transaction>2022/12/27 09:48:31.000.622,C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\Unit1.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\clinica-medica\unitDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>

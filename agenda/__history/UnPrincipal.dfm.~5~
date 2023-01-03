@@ -1,0 +1,79 @@
+object DBEdit1: TDBEdit1
+  Left = 0
+  Top = 0
+  Caption = 'Agenda de Contatos'
+  ClientHeight = 596
+  ClientWidth = 800
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -24
+  Font.Name = 'Tahoma'
+  Font.Style = [fsBold]
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 29
+  object Label1: TLabel
+    Left = 32
+    Top = 32
+    Width = 239
+    Height = 29
+    Caption = 'Agenda de Contatos'
+  end
+  object Label2: TLabel
+    Left = 32
+    Top = 85
+    Width = 104
+    Height = 16
+    Caption = 'Nome do Contato:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 32
+    Top = 146
+    Width = 45
+    Height = 16
+    Caption = 'Celular:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object DBEdit1: TDBEdit
+    Left = 32
+    Top = 107
+    Width = 345
+    Height = 24
+    DataField = 'nome'
+    DataSource = DM.dsContatos
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+  end
+  object DBEdit2: TDBEdit
+    Left = 32
+    Top = 168
+    Width = 153
+    Height = 24
+    DataField = 'celular'
+    DataSource = DM.dsContatos
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+  end
+end

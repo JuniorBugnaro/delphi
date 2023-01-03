@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/26 17:55:41.000.227,=C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/26 17:56:13.000.223,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\UnPrincipal.dfm</Transaction>
+    <Transaction>2022/12/26 17:56:13.000.223,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\UnPrincipal.pas</Transaction>
+    <Transaction>2022/12/26 17:56:20.000.776,C:\Users\Junior Bugnaro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\Agenda.dproj</Transaction>
+    <Transaction>2022/12/26 17:59:30.000.304,=C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\Unit1.pas</Transaction>
+    <Transaction>2022/12/26 18:00:28.000.259,C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\Unit1.pas=C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\UnitDM.pas</Transaction>
+    <Transaction>2022/12/26 18:00:28.000.259,C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\Unit1.dfm=C:\Users\Junior Bugnaro\Documents\estudos\delphi\agenda\UnitDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

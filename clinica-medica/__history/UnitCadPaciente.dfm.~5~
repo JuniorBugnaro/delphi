@@ -1,0 +1,130 @@
+object formCadPacientes: TformCadPacientes
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Cadastro de Pacientes'
+  ClientHeight = 456
+  ClientWidth = 707
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label2: TLabel
+    Left = 24
+    Top = 101
+    Width = 15
+    Height = 13
+    Caption = 'ID:'
+  end
+  object Label3: TLabel
+    Left = 120
+    Top = 101
+    Width = 23
+    Height = 13
+    Caption = 'CPF:'
+  end
+  object Label4: TLabel
+    Left = 24
+    Top = 165
+    Width = 31
+    Height = 13
+    Caption = 'Nome:'
+  end
+  object Label5: TLabel
+    Left = 24
+    Top = 229
+    Width = 37
+    Height = 13
+    Caption = 'Celular:'
+  end
+  object Label6: TLabel
+    Left = 224
+    Top = 229
+    Width = 89
+    Height = 13
+    Caption = 'Data de Cadastro:'
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 707
+    Height = 73
+    Align = alTop
+    TabOrder = 0
+    ExplicitWidth = 597
+    object Label1: TLabel
+      Left = 24
+      Top = 20
+      Width = 233
+      Height = 25
+      Caption = 'Cadastro de Pacientes'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -21
+      Font.Name = 'Tahoma'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object DBNavigator1: TDBNavigator
+      Left = 384
+      Top = 20
+      Width = 300
+      Height = 37
+      TabOrder = 0
+    end
+  end
+  object DBEdit1: TDBEdit
+    Left = 24
+    Top = 120
+    Width = 73
+    Height = 21
+    TabOrder = 1
+  end
+  object DBEdit2: TDBEdit
+    Left = 24
+    Top = 184
+    Width = 337
+    Height = 21
+    TabOrder = 2
+  end
+  object DBEdit3: TDBEdit
+    Left = 24
+    Top = 248
+    Width = 153
+    Height = 21
+    TabOrder = 3
+  end
+  object DBEdit4: TDBEdit
+    Left = 224
+    Top = 248
+    Width = 137
+    Height = 21
+    TabOrder = 4
+  end
+  object DBEdit5: TDBEdit
+    Left = 120
+    Top = 120
+    Width = 160
+    Height = 21
+    TabOrder = 5
+  end
+  object DBGrid1: TDBGrid
+    Left = 384
+    Top = 101
+    Width = 304
+    Height = 324
+    TabOrder = 6
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+end

@@ -1,0 +1,110 @@
+object formCadPacientes: TformCadPacientes
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Cadastro de Pacientes'
+  ClientHeight = 408
+  ClientWidth = 597
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label2: TLabel
+    Left = 24
+    Top = 117
+    Width = 15
+    Height = 13
+    Caption = 'ID:'
+  end
+  object Label3: TLabel
+    Left = 112
+    Top = 117
+    Width = 23
+    Height = 13
+    Caption = 'CPF:'
+  end
+  object Label4: TLabel
+    Left = 24
+    Top = 165
+    Width = 31
+    Height = 13
+    Caption = 'Nome:'
+  end
+  object Label5: TLabel
+    Left = 24
+    Top = 213
+    Width = 37
+    Height = 13
+    Caption = 'Celular:'
+  end
+  object Label6: TLabel
+    Left = 226
+    Top = 213
+    Width = 89
+    Height = 13
+    Caption = 'Data de Cadastro:'
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 597
+    Height = 73
+    Align = alTop
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 24
+      Top = 20
+      Width = 233
+      Height = 37
+      Caption = 'Cadastro de Pacientes'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -21
+      Font.Name = 'Tahoma'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+  end
+  object DBEdit1: TDBEdit
+    Left = 24
+    Top = 136
+    Width = 73
+    Height = 21
+    TabOrder = 1
+  end
+  object DBEdit2: TDBEdit
+    Left = 24
+    Top = 184
+    Width = 337
+    Height = 21
+    TabOrder = 2
+  end
+  object DBEdit3: TDBEdit
+    Left = 24
+    Top = 232
+    Width = 153
+    Height = 21
+    TabOrder = 3
+  end
+  object DBEdit4: TDBEdit
+    Left = 224
+    Top = 232
+    Width = 137
+    Height = 21
+    TabOrder = 4
+  end
+  object DBEdit5: TDBEdit
+    Left = 112
+    Top = 136
+    Width = 160
+    Height = 21
+    TabOrder = 5
+  end
+end
