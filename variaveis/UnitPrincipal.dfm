@@ -1,0 +1,93 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 140
+  ClientWidth = 477
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 32
+    Width = 87
+    Height = 13
+    Caption = 'Digite um n'#250'mero:'
+  end
+  object Label2: TLabel
+    Left = 176
+    Top = 32
+    Width = 87
+    Height = 13
+    Caption = 'Digite um n'#250'mero:'
+  end
+  object Label3: TLabel
+    Left = 328
+    Top = 32
+    Width = 52
+    Height = 13
+    Caption = 'Resultado:'
+  end
+  object Label4: TLabel
+    Left = 153
+    Top = 46
+    Width = 14
+    Height = 23
+    Caption = '+'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 305
+    Top = 46
+    Width = 14
+    Height = 23
+    Caption = '='
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object txtNumero1: TEdit
+    Left = 26
+    Top = 51
+    Width = 121
+    Height = 21
+    TabOrder = 0
+  end
+  object txtNumero2: TEdit
+    Left = 176
+    Top = 51
+    Width = 121
+    Height = 21
+    TabOrder = 1
+  end
+  object txtResultado: TEdit
+    Left = 328
+    Top = 51
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object btSomar: TButton
+    Left = 26
+    Top = 88
+    Width = 423
+    Height = 25
+    Caption = 'Somar'
+    TabOrder = 3
+    OnClick = btSomarClick
+  end
+end
